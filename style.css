@@ -1,0 +1,13 @@
+body{
+    background-color: #419197;
+}
+.container{
+    background-color: #FAF2D3;
+}
+h2{
+    color:#7D7C7C;
+}
+.scroll{
+    max-height: 200px; 
+    overflow-y: auto;
+}
